@@ -5,7 +5,7 @@ I decided to make this as a project for my markup lenguages class as a css final
 <br>
 
 ## The main page 📄
-This page is the main landing page of the website, as a web which has no css I've opted to add some css animations instead and created a book-looking display on the middle, I've also took a coffee color palette theme to suit the minimalistic web design.
+This page is the main landing page of the website, as a web which has no _javascript_ I've opted to add some css animations instead and created a book-looking display on the middle, I've also took a coffee color palette theme to suit the minimalistic web design.
 ![This is the landing page](/images/main.png)
 
 <br>
